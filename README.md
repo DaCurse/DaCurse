@@ -7,28 +7,28 @@ I'm an 18 y/o Full-Stack Developer. Interested mainly in Web Development, JavaSc
 <img src="https://github-readme-stats.vercel.app/api?username=DaCurse&count_private=true&show_icons=true&theme=dark" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaCurse&theme=dark&layout=compact" align="center" />
 
 ## Main Technologies & Languages
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" />
-<img src="https://img.shields.io/badge/-Redux-7248B6?style=flat&logo=redux&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-Jest-C64414?style=flat&logo=jest&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Yarn-2B8AB5?style=flat&logo=yarn&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat" />
-<img src="https://img.shields.io/badge/-Socket.IO-FFFFFF?style=flat&logo=socket.io&logoColor=black" />
-<img src="http://img.shields.io/badge/-TypeScript-2F74C0?style=flat&logo=typescript&logoColor=FFFFFF" />
-<img src="http://img.shields.io/badge/-NestJS-D9224C?style=flat&logo=nestjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-TypeORM-E83524?style=flat" />
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-SQLite-6CB9E1?style=flat&logo=sqlite&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/-Docker-2391E6?style=flat&logo=docker&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff" />
+<img src="https://img.shields.io/badge/-Redux-7248B6?style=for-the-badge&logo=redux&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Jest-C64414?style=for-the-badge&logo=jest&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Socket.IO-FFFFFF?style=for-the-badge&logo=socket.io&logoColor=black" />
+<img src="http://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+<img src="http://img.shields.io/badge/-NestJS-D9224C?style=for-the-badge&logo=nestjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-TypeORM-E83524?style=for-the-badge" />
+<img src="http://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-SQLite-6CB9E1?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/-Docker-2391E6?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
 
 ### Other Languages I know
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-C%23-9D74D5?style=flat&logo=c%20sharp&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-C, C%2B%2B-659AD2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> <img src="http://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-C%23-9D74D5?style=for-the-badge&logo=c%20sharp&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-C, C%2B%2B-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff">
 
 
 ## Social Media
