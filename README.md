@@ -1,7 +1,7 @@
 # About me
 ![Profile views](https://gpvc.arturio.dev/DaCurse)
 
-I'm an 18 y/o Full-Stack Developer. Interested mainly in Web Development, JavaScript/TypeScript, System Administration and DevOps.
+I'm an 19 y/o Full-Stack Developer. Interested mainly in Web Development, JavaScript/TypeScript, System Administration and DevOps.
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=DaCurse&count_private=true&show_icons=true&theme=dark" align="center" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaCurse&theme=dark&layout=compact" align="center" />
