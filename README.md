@@ -29,7 +29,7 @@ I'm an 19 y/o Full-Stack Developer. Interested mainly in Web Development, JavaSc
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-C%23-9D74D5?style=for-the-badge&logo=c%20sharp&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-C, C%2B%2B-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-C/C%2B%2B-659AD2?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=FFFFFF">
 
 
