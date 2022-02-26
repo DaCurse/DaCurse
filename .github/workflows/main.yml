@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (each day)
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -40,7 +40,7 @@ jobs:
           plugin_code_skipped: p
           plugin_code_visibility: public
           plugin_habits: yes
-          plugin_habits_days: 28
+          plugin_habits_days: 31
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_introduction: yes
