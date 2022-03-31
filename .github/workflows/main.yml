@@ -33,11 +33,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript, tsx, svelte
-          plugin_code_lines: 36
-          plugin_code_load: 100
-          plugin_code_skipped: p
           plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_days: 31
