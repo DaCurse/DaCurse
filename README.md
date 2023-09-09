@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaCurse&size_weight=0.75&count_weight=0.25&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaCurse&size_weight=0.75&count_weight=0.25&theme=dark&layout=compact)
 
 ## Social Media
 * Discord: `dacurse`
